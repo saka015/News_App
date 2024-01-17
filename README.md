@@ -1,4 +1,3 @@
-#Live Demo : https://saka-news-app.netlify.app/
 
 # Getting Started with Create React App
 
